@@ -54,6 +54,7 @@ Pembuatan struktur dasar HTML (*file* `lab2_css_dasar.html`) tanpa menggunakan f
 </html>
 ```
 Screenshot hasil langkah 1:
+
 <img width="602" height="159" alt="Cuplikan layar 2026-10-11 074335" src="https://github.com/user-attachments/assets/2d21aeb4-8158-4ce2-bbf3-e74cd522c1d5" />
 
 
