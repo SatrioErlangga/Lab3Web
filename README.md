@@ -54,7 +54,8 @@ Pembuatan struktur dasar HTML (*file* `lab2_css_dasar.html`) tanpa menggunakan f
 </html>
 ```
 Screenshot hasil langkah 1:
-<img width="959" height="152" alt="Cuplikan layar 2026-10-11 075239" src="https://github.com/user-attachments/assets/70b57ee3-88cc-4f40-ba66-471beb57bba4" />
+<img width="602" height="159" alt="Cuplikan layar 2026-10-11 074335" src="https://github.com/user-attachments/assets/2d21aeb4-8158-4ce2-bbf3-e74cd522c1d5" />
+
 
 2. Mendeklarasikan CSS Internal
 Menambahkan tag <style> pada bagian <head> untuk mengatur jenis font dasar, garis batas (border), dan warna teks judul.
@@ -80,7 +81,8 @@ Tambahan Kode pada <head>:
 </style>
 ```
 Screenshot hasil langkah 2:
-<img width="959" height="152" alt="Cuplikan layar 2026-10-11 075239" src="https://github.com/user-attachments/assets/81ef6aea-7bb5-4e60-a1b7-d767bf3aa11a" />
+<img width="670" height="170" alt="Cuplikan layar 2026-10-11 074808" src="https://github.com/user-attachments/assets/26edfc18-482d-41d0-b99a-e39dfda711c6" />
+
 
 3. Menambahkan Inline CSS
 Menyisipkan atribut style langsung pada tag paragraf <p> untuk memodifikasi warna dan perataan teks (rata tengah).
@@ -92,7 +94,7 @@ Modifikasi Tag <p>:
 </p>
 ```
 Screenshot hasil langkah 3:
-<img width="959" height="152" alt="Cuplikan layar 2026-10-11 075239" src="https://github.com/user-attachments/assets/02cdd890-59d1-4457-988c-8ce99eb8e843" />
+<img width="828" height="171" alt="Cuplikan layar 2026-10-11 074848" src="https://github.com/user-attachments/assets/12b89c0c-17d1-4f67-b553-3903caaaa017" />
 
 4. Membuat CSS Eksternal
 Memisahkan kode CSS ke dalam file baru (style_eksternal.css) dan menghubungkannya dengan dokumen HTML menggunakan tag <link> untuk mendesain bagian menu navigasi.
@@ -115,7 +117,8 @@ nav a:hover {
 }
 ```
 Screenshot hasil langkah 4:
-<img width="959" height="152" alt="Cuplikan layar 2026-10-11 075239" src="https://github.com/user-attachments/assets/88ee44ca-ea14-4fc7-be67-2e036046edda" />
+<img width="957" height="116" alt="Cuplikan layar 2026-10-11 075032" src="https://github.com/user-attachments/assets/129c4df9-a758-4aed-9e00-b0050fdcaba5" />
+
 
 5. Menambahkan CSS Selector (ID & Class)
 Menerapkan ID Selector (#intro) dan Class Selector (.button, .btn-primary) pada file CSS eksternal yang sama untuk menata letak kotak utama dan gaya tombol interaktif.
@@ -148,13 +151,15 @@ Salinan Kode Tambahan (style_eksternal.css - Bagian Selector):
 }
 ```
 Screenshot hasil langkah 5:
-<img width="959" height="152" alt="Cuplikan layar 2026-10-11 075239" src="https://github.com/user-attachments/assets/1580e9f2-5ee0-42f3-8ad7-d524514bc8d7" />
+<img width="959" height="152" alt="Cuplikan layar 2026-10-11 075239" src="https://github.com/user-attachments/assets/04ad2669-257d-477b-949b-f7bae62c0dc0" />
+
 
 Eksperimen & Pembahasan Jawaban Soal Modul
 Halaman eksperimen.html dirancang secara khusus untuk membuktikan dan mendemonstrasikan secara visual jawaban atas pertanyaan dan tugas pada halaman 8 modul praktikum.
 
 Screenshot Hasil Halaman Eksperimen & Pembuktian Soal:
-<img width="524" height="437" alt="Cuplikan layar 2026-10-11 080544" src="https://github.com/user-attachments/assets/501135b7-a572-4eef-8582-c4db387360b0" />
+<img width="524" height="437" alt="Cuplikan layar 2026-10-11 080544" src="https://github.com/user-attachments/assets/0ae67491-f889-419b-b8c9-966d0dc62d09" />
+
 
 1. Eksperimen Properti CSS (Berdasarkan CSS Cheat Sheet)
 Telah dilakukan eksperimen dengan memodifikasi beberapa properti dan nilai pada kode CSS yang ada di file style_eksternal.css. Penambahan properti yang dilakukan meliputi line-height, letter-spacing, border-radius, dan efek box-shadow.
