@@ -54,6 +54,7 @@ Salinan Kode (lab2_css_dasar.html):
 
 
 Hasil Tampilan Web Browser:
+
 <img width="602" height="159" alt="Cuplikan layar 2026-10-11 074335" src="https://github.com/user-attachments/assets/b890eda4-4910-4ed1-b7b0-61ee4fd31da7" />
 
 
@@ -84,6 +85,7 @@ Salinan Kode Tambahan pada <head>:
 
 
 Hasil Tampilan Web Browser:
+
 <img width="670" height="170" alt="Cuplikan layar 2026-10-11 074808" src="https://github.com/user-attachments/assets/0011aa34-99f7-4476-8a0d-57ee0cd30e3a" />
 
 
@@ -174,7 +176,7 @@ Hasil Tampilan Web Browser:
 <img width="959" height="152" alt="Cuplikan layar 2026-10-11 075239" src="https://github.com/user-attachments/assets/016702ef-e6eb-4d3c-8f98-c1d559f9dd61" />
 
 
-## Eksperimen dan Jawaban Pertanyaan dan Tugas Modul
+ Eksperimen dan Jawaban Pertanyaan dan Tugas Modul
 Halaman eksperimen.html dirancang secara khusus untuk membuktikan dan mendemonstrasikan secara visual jawaban atas pertanyaan dan tugas pada halaman 8 modul praktikum.
 
 Screenshot Hasil Halaman Eksperimen & Pembuktian Soal:
