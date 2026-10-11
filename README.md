@@ -172,9 +172,9 @@ Kode Modifikasi: #intro { background-color: #2c3e50; border: 2px dashed #e74c3c;
 Hasil: Elemen kotak berubah tampilan menjadi lebih modern dengan sudut yang melengkung/tumpul (efek radius), garis tepi putus-putus berwarna merah, serta penambahan efek bayangan 3D di belakang kotak (Hasil visual eksperimen ini telah dilampirkan pada file laporan praktikum).
 
 2. Perbedaan Selektor h1 {...} dengan #intro h1 {...}
-h1 {...} (Element Selector): Deklarasi ini bersifat umum/global. Aturan gaya (style) CSS yang ditulis pada blok ini akan diterapkan secara otomatis pada seluruh tag judul <h1>  yang ada di dalam keseluruhan dokumen HTML tanpa memedulikan letaknya.
+h1 {...} (Element Selector): Deklarasi ini bersifat umum/global. Aturan gaya (style) CSS yang ditulis pada blok ini akan diterapkan secara otomatis pada seluruh tag judul h1  yang ada di dalam keseluruhan dokumen HTML tanpa memedulikan letaknya.
 
-#intro h1 {...} (Descendant Selector): Deklarasi ini bersifat spesifik. Aturan CSS ini hanya akan memengaruhi dan diterapkan khusus pada tag <h1> yang letaknya berada di dalam atau terbungkus oleh elemen HTML ber-ID "intro" (id="intro"). Tag <h1> yang posisinya berada di luar elemen tersebut tidak akan berubah.
+#intro h1 {...} (Descendant Selector): Deklarasi ini bersifat spesifik. Aturan CSS ini hanya akan memengaruhi dan diterapkan khusus pada tag h1 yang letaknya berada di dalam atau terbungkus oleh elemen HTML ber-ID "intro" (id="intro"). Tag h1 yang posisinya berada di luar elemen tersebut tidak akan berubah.
 
 3. Prioritas Tampilan: CSS Internal, Eksternal, dan Inline
 Apabila sebuah elemen HTML yang sama diberikan aturan desain melalui CSS Internal, CSS Eksternal, dan Inline CSS secara bersamaan, maka deklarasi yang akan menang dan ditampilkan pada browser adalah Inline CSS.
